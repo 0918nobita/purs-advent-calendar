@@ -1,0 +1,14 @@
+{
+  "name": "purescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:0918nobita/purescript.git",
+  "author": "0918nobita <nobita.0918@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "bower": "^1.8.8",
+    "pulp": "^12.3.1",
+    "purescript": "^0.12.2"
+  }
+}
