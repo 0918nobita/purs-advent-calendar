@@ -1,0 +1,13 @@
+{
+  "name": "day2",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "spago build",
+    "test": "spago test"
+  },
+  "devDependencies": {
+    "purescript": "^0.14.5",
+    "spago": "^0.20.3"
+  }
+}
