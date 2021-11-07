@@ -1,4 +1,4 @@
-{ name = "my-project"
+{ name = "day2"
 , dependencies =
     [ "console"
     , "effect"
@@ -6,6 +6,6 @@
     , "profunctor-lenses"
     , "psci-support"
     ]
-, packages = ./packages.dhall
+, packages = ../packages.dhall
 , sources = [ "src/**/*.purs", "test/**/*.purs" ]
 }
